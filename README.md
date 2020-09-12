@@ -1,4 +1,4 @@
-#Spam-Checker 
+# Spam-Checker 
 
 
 A Machine Learning application using Python which checks a given set
